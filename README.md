@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# about
+网络摘抄本,有一些文章摘抄一下, 有一些看不懂的东西 翻译一下 记录一下
 
-You can use the [editor on GitHub](https://github.com/xy2401/excerpt/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## tool
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[page to Markdown](http://fuckyeahmarkdown.com/)    网页在线转换为 html  
+- [ ] Use Readability?  勾选会过滤掉不需要的内容(评论 搜索 广告),但是可能会丢失正文内容(误判?).
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+[谷歌翻译](https://translate.google.com)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+# index
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## eclipse
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xy2401/excerpt/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Source][2017-09-11-011]  [Local][2017-09-11-012]   [Source][2017-09-11-013] Permalink to Eclipse Che | Features
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[2017-09-11-011]:(https://www.eclipse.org/che/features/ "Permalink to Eclipse Che | Features")
+[2017-09-11-012]:(https://xy2401.github.io/excerpt/eclipse/che-features "Permalink to Eclipse Che | Features")
+[2017-09-11-013]:(https://xy2401.github.io/excerpt/eclipse/che-features-zh "Permalink to Eclipse Che | 特性")
+
+
+
+
+[1]: https://www.eclipse.org/che/images/logo-eclipseche.svg
+
+
+
+
+# EOF
