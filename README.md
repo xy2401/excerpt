@@ -19,25 +19,11 @@
 ## eclipse
 
 
-[Source][20170911011]  [Local][20170911012]   [Source][20170911013] Permalink to Eclipse Che | Features
+[Source](https://www.eclipse.org/che/features/ "Permalink to Eclipse Che | Features")
+[Local](https://xy2401.github.io/excerpt/eclipse/che-features)
+[机翻](https://xy2401.github.io/excerpt/eclipse/che-features-zh)
+Permalink to Eclipse Che | Features | 特性
 
-
-[20170911011]:(https://www.eclipse.org/che/features/ "Permalink to Eclipse Che | Features")
-[20170911012]:(https://xy2401.github.io/excerpt/eclipse/che-features "Permalink to Eclipse Che | Features")
-[20170911013]: https://xy2401.github.io/excerpt/eclipse/che-features-zh "Permalink to Eclipse Che | 特性"
-
-
-
-[2333][1]   
-
-
-[1]:(https://www.eclipse.org/che/images/logo-eclipseche.svg)
-
-* [Store][27]
-[27]: https://spring.io/docs
-
-[Google](http://www.google.com/ "Google")
-
-[Google](http://www.google.com/ "谷歌")
+ 
 
 # EOF
