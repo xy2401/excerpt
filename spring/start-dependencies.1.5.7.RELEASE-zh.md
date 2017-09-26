@@ -154,7 +154,7 @@
 		},
 		{
 			"name": "Rest Repositories HAL Browser",
-			"description-zh":"浏览浏览器中的Spring数据REST存储库 ??怎么读起来这么怪" ,
+			"description-zh":"在浏览器中浏览  Spring Data REST repositories" ,
 			"description": "Browsing Spring Data REST repositories in your browser",
 			"id": "data-rest-hal",
 			"group": "Web"
@@ -286,14 +286,14 @@
 		},
 		{
 			"name": "Flyway",
-			"description-zh":"Flyway数据库迁移库 ??todo 是这个?" ,
+			"description-zh":"Flyway 数据库迁移库" ,
 			"description": "Flyway Database Migrations library",
 			"id": "flyway",
 			"group": "SQL"
 		},
 		{
 			"name": "Liquibase",
-			"description-zh":"Liquibase数据库迁移库 ??todo 是啥?" ,
+			"description-zh":"Liquibase数据库迁移库" ,
 			"description": "Liquibase Database Migrations library",
 			"id": "liquibase",
 			"group": "SQL"
@@ -358,7 +358,8 @@
 		},
 		{
 			"name": "Elasticsearch",
-			"description-zh":"弹性搜索和分析引擎，包括弹性数据弹性搜索 ??啥" ,
+			"description-zh":"Elasticsearch 搜索和分析引擎
+，包括spring-data-elasticsearch" ,
 			"description": "Elasticsearch search and analytics engine including spring-data-elasticsearch",
 			"weight": 10,
 			"id": "data-elasticsearch",
@@ -366,7 +367,7 @@
 		},
 		{
 			"name": "Cloud Connectors",
-			"description-zh":"简化与云平台中服务的连接，包括弹簧云连接器和弹簧云云计算连接器 ??啥鬼" ,
+			"description-zh":"简化与云平台中服务的连接，包括spring-cloud-connector and spring-cloud-cloudfoundry-connector" ,
 			"description": "Simplifies connecting to services in cloud platforms, including spring-cloud-connector and spring-cloud-cloudfoundry-connector",
 			"id": "cloud-connectors",
 			"group": "Cloud Core"
@@ -431,7 +432,7 @@
 		},
 		{
 			"name": "Consul Configuration",
-			"description-zh":"Hashicorp Consul的配置管理 ??啥鬼" ,
+			"description-zh":"使用 Hashicorp Consul 配置管理" ,
 			"description": "Configuration management with Hashicorp Consul",
 			"id": "cloud-starter-consul-config",
 			"group": "Cloud Config"
@@ -488,14 +489,14 @@
 		},
 		{
 			"name": "Feign",
-			"description-zh":"??todo居然未翻译" ,
+			"description-zh":"使用 spring-cloud-netflix Feign 声明REST客户端" ,
 			"description": "Declarative REST clients with spring-cloud-netflix Feign",
 			"id": "cloud-feign",
 			"group": "Cloud Routing"
 		},
 		{
 			"name": "Hystrix",
-			"description-zh":"断路器与spring-cloud-netflix - netflix Hystrix ??混在一起的就翻译不好" ,
+			"description-zh":"断路器 用 spring-cloud-netflix Hystrix" ,
 			"description": "Circuit breaker with spring-cloud-netflix Hystrix",
 			"id": "cloud-hystrix",
 			"group": "Cloud Circuit Breaker"
@@ -516,7 +517,7 @@
 		},
 		{
 			"name": "Turbine Stream",
-			"description-zh":"使用Spring-Cloud-netflix与Turbine和Spring Cloud Stream的断路器量度汇总（选择特定的Stream binder实现来补充这一点） ??" ,
+			"description-zh":"使用Spring-Cloud-netflix与Turbine和Spring Cloud Stream的断路器量度汇总（选择特定的Stream binder实现来补充这一点） ??todo" ,
 			"description": "Circuit breaker metric aggregation using spring-cloud-netflix with Turbine and Spring Cloud Stream (choose a specific Stream binder implementation to complement this)",
 			"id": "cloud-turbine-stream",
 			"group": "Cloud Circuit Breaker"
@@ -537,7 +538,7 @@
 		},
 		{
 			"name": "Sleuth Stream",
-			"description-zh":"??翻译的有点怪怪" ,
+			"description-zh":"??翻译的有点怪怪??todo " ,
 			"description": "Marshals Spring Cloud Sleuth Spans over a Spring Cloud Stream binder",
 			"id": "cloud-sleuth-stream",
 			"group": "Cloud Tracing"
