@@ -1,4 +1,6 @@
-```json 
+[Source](http://start.spring.io/ui/dependencies.json?version=1.5.7.RELEASE")
+
+```json
 {
 	"dependencies": [
 		{
