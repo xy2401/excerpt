@@ -1,127 +1,128 @@
 
-[Source](http://commons.apache.org/sandbox.html "Permalink to Apache Commons – Sandbox")
 
-# Apache Commons – Sandbox
+[来源]（http://commons.apache.org/sandbox.html“固定链接到Apache Commons - Sandbox”）
 
-## The Apache Commons Sandbox
+＃Apache Commons - 沙盒
 
-The Sandbox is a Subversion repository for Commons committers to function as an open workspace for sharing and collaboration. The Sandbox serves as a staging ground for project which are destined for what is known as the Commons Proper.
+## Apache Commons Sandbox
 
-|  Sandbox |   |  
-|  --- | --- |  
-|  [BeanUtils2][54] |  Redesign of Commons BeanUtils. |
-|  [ClassScan][55] |  Find Class interfaces, methods, fields, and annotations without loading. |  
-|  [CLI2][56] |  Redesign of Commons CLI. |  
-|  [Convert][57] |  Commons-Convert aims to provide a single library dedicated to the task of converting an object of one type to another. |  
-|  [Finder][58] |  Java library inspired by the UNIX find command. |  
-|  [Flatfile][59] |  Java library for working with flat data structures. |  
-|  [Graph][60] |  A general purpose Graph APIs and algorithms. |  
-|  [I18n][61] |  Adds the feature of localized message bundles that consist of one or many localized texts that belong together. Think of an error message that consists of title, text, summary and error details. |  
-|  [Id][62] |  Id is a component used to generate identifiers. |  
-|  [Inject][63] |  Implementation of JSR 330, a standards compliant dependency injection framework |  
-|  [Javaflow][64] |  Continuation implementation to capture the state of the application. |  
-|  [JNet][65] |  JNet allows to use dynamically register url stream handlers through the java.net API. |  
-|  [Monitoring][66] |  Monitoring aims to provide a simple but extensible monitoring solution for Java applications. |  
-|  [Nabla][67] |  Nabla provides automatic differentiation classes that can generate derivative of any function implemented in the Java language. |  
-|  [OpenPGP][68] |  Interface to signing and verifying data using OpenPGP. |  
-|  [Performance][69] |  A small framework for microbenchmark clients, with implementations for Commons DBCP and Pool. |  
-|  [Pipeline][70] |  Provides a set of pipeline utilities designed around work queues that run in parallel to sequentially process data objects data objects. |
+Sandbox是一个Subversion存储库，用于Commons提交者作为共享和协作的开放工作区。沙箱作为项目的分期开发地点，注定是所谓的“共同正义”。
 
-## The Apache Commons Sandbox - Google Summer of Code Projects
+沙箱模式
+1927
+| [BeanUtils2] [54] |重新设计Commons BeanUtils。|
+| [ClassScan] [55] |查找Class接口，方法，字段和注释而不加载。
+| [CLI2] [56] |重新设计Commons CLI。 |
+| [转换] [57] | Commons-Convert旨在提供一个专用于将一种对象转换为另一种类型的任务的单个库。
+| [Finder] [58] | Java库灵感来自于UNIX查找命令。
+| [Flatfile] [59] |用于处理平面数据结构的Java库。1927
+| [图] [60] |通用图形API和算法。
+| [I18n] [61] |添加由属于一起的一个或多个本地化文本组成的本地化消息束的功能。想想一个由标题，文本，总结和错误详细信息组成的错误消息。
+| [Id] [62] | Id是用于生成标识符的组件。
+| [注入] [63] | JSR 330的实现，符合标准的依赖注入框架|
+| [Javaflow] [64] |继续执行以捕获应用程序的状态。
+| [JNet] [65] | JNet允许通过java.net API动态注册url流处理程序。 |
+| [监测] [66] |监控旨在为Java应用程序提供一个简单但可扩展的监控解决方案。1927
+| [Nabla] [67] | Nabla提供自动差异化类，可以生成Java语言中实现的任何函数的派生。1927
+| [OpenPGP] [68] |使用OpenPGP签署和验证数据的界面。 |
+| [表演] [69] |微型基准客户端的一个小框架，具有Commons DBCP和Pool的实现。
+| [管道] [70] |提供一组围绕工作队列设计的管道实用程序，并行运行以顺序处理数据对象数据对象。|
 
-[Google Summer of Code][71]TM is a global program that offers student developers stipends to write code for various open source software projects. The Apache Software Foundation participates in the program every year.
+## Apache Commons Sandbox - Google夏季的代码项目
 
-See the [Google Summer of Code space in Commons Sandbox][72] for details.
+[Google Summer of Code] [71] TM是一个全球性计划，为学生开发商提供了编写各种开源软件项目的代码。Apache软件基金会每年都参与该计划。
 
-## Status of the Sandbox Components
+有关详细信息，请参阅[Commons Sandbox] [72]中的[Google Summer of Code空间]。
 
-Check the status of a sandbox component on [the sandbox wiki page][73] or just ask on one of [the commons mailing lists][74].
+##沙盒组件的状态
 
-A Sandbox component is considered active if there is a definite plan for promotion to the Commons Proper and there is an active group of existing committers working on a component.
+检查[沙箱维基页面] [73]上的沙盒组件的状态，或者只是询问其中一个[公共邮件列表] [74]。
 
-A Commons Sandbox component is considered dormant if there is little recent development activity and no individual or group of individual commiters has emerged to champion its ultimate promotion to Commons Proper. See the Commons [dormant components][75] webpage for a list of Commons components currently considered dormant.
+如果有一个明确的计划促进Commons Proper，并且有一组现有的提交者在组件上工作，则Sandbox组件被认为是活动的。
 
-A Commons Sandbox component is considered inactive if there is no active development for a sustained period of time.
+如果最近的发展活动很少，没有任何一个或多个个人提交者已经出现，可以将Commons Sandbox组件置于休眠状态，以促进其对Commons Proper的最终推广。请参阅Commons [休眠组件] [75]网页，查看当前被认为处于休眠状态的Commons组件列表。
 
- ------
+如果在持续的时间内没有积极的开发，Commons Sandbox组件将被视为无效。
 
-Copyright © 2017 [The Apache Software Foundation][76]. All Rights Reserved.
 
-Apache Commons, Apache, the Apache feather logo, and the Apache Commons project logos are trademarks of The Apache Software Foundation. All other marks mentioned may be trademarks or registered trademarks of their respective owners.
 
-[1]: http://commons.apache.org/images/commons-logo.png
-[2]: http://commons.apache.org/ "Apache Commons logo"
-[3]: http://commons.apache.org/
-[4]: http://commons.apache.org/components.html "Components"
-[5]: http://commons.apache.org/sandbox.html "Sandbox"
-[6]: http://commons.apache.org/dormant.html "Dormant"
-[7]: http://www.apachecon.com/ "ApacheCon"
-[8]: http://www.apache.org "Apache"
-[9]: http://commons.apache.org/index.html "Home"
-[10]: http://www.apache.org/licenses/ "License"
-[11]: http://commons.apache.org/mail-lists.html "Mailing Lists"
-[12]: http://commons.apache.org/team-list.html "PMC"
-[13]: http://commons.apache.org/beanutils2/ "Beanutils2"
-[14]: http://commons.apache.org/sandbox/classscan/ "ClassScan"
-[15]: http://commons.apache.org/sandbox/cli2/ "CLI2"
-[16]: http://commons.apache.org/sandbox/convert/ "Convert"
-[17]: http://commons.apache.org/sandbox/finder/ "Finder"
-[18]: http://commons.apache.org/sandbox/flatfile/ "Flatfile"
-[19]: http://commons.apache.org/sandbox/graph/ "Graph"
-[20]: http://commons.apache.org/sandbox/i18n/ "I18n"
-[21]: http://commons.apache.org/sandbox/id/ "Id"
-[22]: http://commons.apache.org/sandbox/inject "Inject"
-[23]: http://commons.apache.org/sandbox/javaflow/ "Javaflow"
-[24]: http://commons.apache.org/sandbox/jnet/ "JNet"
-[25]: http://commons.apache.org/sandbox/monitoring/ "Monitoring"
-[26]: http://commons.apache.org/sandbox/nabla/ "Nabla"
-[27]: http://commons.apache.org/sandbox/openpgp/ "OpenPGP"
-[28]: http://commons.apache.org/sandbox/performance/ "Performance"
-[29]: http://commons.apache.org/sandbox/pipeline/ "Pipeline"
-[30]: http://commons.apache.org/downloads/index.html "Releases"
-[31]: http://commons.apache.org/svninfo.html "General Information"
-[32]: http://svn.apache.org/viewvc/commons/proper/ "Components"
-[33]: http://svn.apache.org/viewvc/commons/sandbox/ "Sandbox"
-[34]: http://svn.apache.org/viewvc/commons/dormant/ "Dormant"
-[35]: http://commons.apache.org/security.html "Security"
-[36]: http://commons.apache.org/volunteering.html "Volunteering"
-[37]: http://commons.apache.org/patches.html "Contributing Patches"
-[38]: http://commons.apache.org/building.html "Building Components"
-[39]: http://commons.apache.org/commons-parent-pom.html "Commons Parent Pom"
-[40]: http://commons.apache.org/build-plugin/index.html "Commons Build Plugin"
-[41]: http://commons.apache.org/site-publish.html "Site Publication"
-[42]: http://commons.apache.org/releases/index.html "Releasing Components"
-[43]: http://wiki.apache.org/commons/FrontPage "Wiki"
-[44]: http://www.apache.org/foundation/how-it-works.html "How the ASF works"
-[45]: http://www.apache.org/foundation/getinvolved.html "Get Involved"
-[46]: http://www.apache.org/dev/ "Developer Resources"
-[47]: http://www.apache.org/foundation/policies/conduct.html "Code of Conduct"
-[48]: http://www.apache.org/foundation/sponsorship.html "Sponsorship"
-[49]: http://www.apache.org/foundation/thanks.html "Thanks"
-[50]: http://www.apache.org/events/current-event-125x125.png
-[51]: http://www.apache.org/events/current-event.html "ApacheCon"
-[52]: http://maven.apache.org/images/logos/maven-feather.png
-[53]: http://maven.apache.org/ "Maven"
-[54]: http://commons.apache.org/sandbox/commons-beanutils2/
-[55]: http://commons.apache.org/sandbox/commons-classscan/
-[56]: http://commons.apache.org/sandbox/commons-cli2
-[57]: http://commons.apache.org/sandbox/commons-convert/
-[58]: http://commons.apache.org/sandbox/commons-finder/
-[59]: http://commons.apache.org/sandbox/commons-flatfile/
-[60]: http://commons.apache.org/sandbox/commons-graph/
-[61]: http://commons.apache.org/sandbox/commons-i18n/
-[62]: http://commons.apache.org/sandbox/commons-id/
-[63]: http://commons.apache.org/sandbox/commons-inject/
-[64]: http://commons.apache.org/sandbox/commons-javaflow/
-[65]: http://commons.apache.org/sandbox/commons-jnet/
-[66]: http://commons.apache.org/sandbox/commons-monitoring/
-[67]: http://commons.apache.org/sandbox/commons-nabla/
-[68]: http://commons.apache.org/sandbox/commons-openpgp/
-[69]: http://commons.apache.org/sandbox/commons-performance/
-[70]: http://commons.apache.org/sandbox/commons-pipeline/
-[71]: http://code.google.com/soc/
-[72]: http://commons.apache.org/gsoc/index.html
-[73]: http://wiki.apache.org/commons/TheSandbox
-[74]: http://commons.apache.org/mail-lists.html
-[75]: http://commons.apache.org/dormant.html
-[76]: https://www.apache.org/
+Apache软件基金会 版权所有 2013版权所有.
+
+Apache Commons，Apache，Apache羽毛徽标和Apache Commons项目徽标是Apache Software Foundation的商标。所提及的所有其他标记可能是其各自所有者的商标或注册商标。
+
+[1]：http://commons.apache.org/images/commons-logo.png
+[2]：http://commons.apache.org/“Apache Commons logo”
+[3]：http://commons.apache.org/
+[4]：http://commons.apache.org/components.html“组件”
+[5]：http://commons.apache.org/sandbox.html“沙盒”
+[6]：http://commons.apache.org/dormant.html“休眠”
+[7]：http://www.apachecon.com/“ApacheCon”
+[8]：http：//www.apache.org“Apache”
+[9]：http://commons.apache.org/index.html“首页”
+[10]：http://www.apache.org/licenses/“许可证”
+[11]：http://commons.apache.org/mail-lists.html“邮件列表”
+[12]：http://commons.apache.org/team-list.html“PMC”
+[13]：http://commons.apache.org/beanutils2/“Beanutils2”
+[14]：http://commons.apache.org/sandbox/classscan/“ClassScan”
+[15]：http://commons.apache.org/sandbox/cli2/“CLI2”
+[16]：http://commons.apache.org/sandbox/convert/“转换”
+[17]：http://commons.apache.org/sandbox/finder/“Finder”
+[18]：http://commons.apache.org/sandbox/flatfile/“Flatfile”
+[19]：http://commons.apache.org/sandbox/graph/“图”
+[20]：http://commons.apache.org/sandbox/i18n/“I18n”
+[21]：http://commons.apache.org/sandbox/id/“Id”
+[22]：http://commons.apache.org/sandbox/inject“注入”
+[23]：http://commons.apache.org/sandbox/javaflow/“Javaflow”
+[24]：http://commons.apache.org/sandbox/jnet/“JNet”
+[25]：http://commons.apache.org/sandbox/monitoring/“监控”
+[26]：http://commons.apache.org/sandbox/nabla/“Nabla”
+[27]：http://commons.apache.org/sandbox/openpgp/“OpenPGP”
+[28]：http://commons.apache.org/sandbox/performance/“性能”
+[29]：http://commons.apache.org/sandbox/pipeline/“管道”
+[30]：http://commons.apache.org/downloads/index.html“Releases”
+[31]：http://commons.apache.org/svninfo.html“一般信息”
+[32]：http://svn.apache.org/viewvc/commons/proper/“组件”
+[33]：http://svn.apache.org/viewvc/commons/sandbox/“沙盒”
+[34]：http://svn.apache.org/viewvc/commons/dormant/“休眠”
+[35]：http://commons.apache.org/security.html“安全”
+[36]：http://commons.apache.org/volunteering.html“志愿服务”
+[37]：http://commons.apache.org/patches.html“贡献补丁”
+[38]：http://commons.apache.org/building.html“建筑构件”
+[39]：http://commons.apache.org/commons-parent-pom.html“共同父母”
+[40]：http://commons.apache.org/build-plugin/index.html“Commons Build Plugin”
+[41]：http://commons.apache.org/site-publish.html“网站出版物”
+[42]：http://commons.apache.org/releases/index.html“发布组件”
+[43]：http://wiki.apache.org/commons/FrontPage“Wiki”
+[44]：http://www.apache.org/foundation/how-it-works.html“ASF如何工作”
+[45]：http://www.apache.org/foundation/getinvolved.html“参与”
+[46]：http://www.apache.org/dev/“开发人员资源”
+[47]：http://www.apache.org/foundation/policies/conduct.html“行为准则”
+[48]：http://www.apache.org/foundation/sponsorship.html“赞助”
+[49]：http://www.apache.org/foundation/thanks.html“谢谢”
+[50]：http://www.apache.org/events/current-event-125x125.png
+[51]：http://www.apache.org/events/current-event.html“ApacheCon”
+[52]：http://maven.apache.org/images/logos/maven-feather.png
+[53]：http://maven.apache.org/“Maven”
+[54]：http://commons.apache.org/sandbox/commons-beanutils2/
+[55]：http://commons.apache.org/sandbox/commons-classscan/
+[56]：http://commons.apache.org/sandbox/commons-cli2
+[57]：http://commons.apache.org/sandbox/commons-convert/
+[58]：http://commons.apache.org/sandbox/commons-finder/
+[59]：http://commons.apache.org/sandbox/commons-flatfile/
+[60]：http://commons.apache.org/sandbox/commonsgraph
+[61]：http://commons.apache.org/sandbox/commons-i18n/
+[62]：http://commons.apache.org/sandbox/commons-id/
+[63]：http://commons.apache.org/sandbox/commons-inject/
+[64]：http://commons.apache.org/sandbox/commons-javaflow/
+[65]：http://commons.apache.org/sandbox/commons-jnet/
+[66]：http://commons.apache.org/sandbox/commons-monitoring/
+[67]：http://commons.apache.org/sandbox/commons-nabla/
+[68]：http://commons.apache.org/sandbox/commons-openpgp/
+[69]：http://commons.apache.org/sandbox/commons-performance/
+[70]：http://commons.apache.org/sandbox/commons-pipeline/
+[71]：http://code.google.com/soc/
+[72]：http://commons.apache.org/gsoc/index.html
+[73]：http://wiki.apache.org/commons/TheSandbox
+[74]：http://commons.apache.org/mail-lists.html
+[75]：http：//commons.apache.org/dormant.html
+[76]：https：//www.apache.org/
