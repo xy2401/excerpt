@@ -1,7 +1,3 @@
-[Source](http://start.spring.io/ui/dependencies.json?version=1.5.7.RELEASE)
-[Local](https://xy2401.github.io/excerpt/spring/start-dependencies.1.5.7.RELEASE)
-[机翻](https://xy2401.github.io/excerpt/spring/start-dependencies.1.5.7.RELEASE-zh)
-
 ```json
 {
 	"dependencies": [

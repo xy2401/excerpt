@@ -1,0 +1,228 @@
+
+[Source](https://spring.io/ "Permalink to Spring")
+
+# Spring
+
+## Spring Framework 5.0
+The right stack for the right job.
+
+End-to-end support for reactive &amp; servlet based apps on the JVM. [Learn More][7]
+
+![][8]
+
+## Put a little Spring in your app
+
+Join your cloud-native community at SpringOne Platform and build
+software people love. [Register Now][9]
+
+## Automate Ops for Spring
+Cloud on Cloud Foundry
+
+Build Spring microservices with Cloud Foundry's new container
+networking stack. [Learn More][10]
+
+## Pivotal Web Services
+
+Zero friction Spring Boot deployment to the cloud. [Learn More][11]
+
+## Spring Cloud Dalston Released
+
+Spring Cloud Dalston debuts composite Config Server
+backends, Vault secrets. [Learn More][12]
+
+## Spring: the source for modern java
+
+![][13]
+
+### Spring Boot
+
+#### Build Anything
+
+Spring Boot is designed to get you up and running as quickly as possible, with minimal upfront configuration of Spring. Spring Boot takes an opinionated view of building production ready applications.
+
+### Spring Cloud
+
+#### Coordinate Anything
+
+Built directly on Spring Boot's innovative approach to enterprise Java, Spring Cloud simplifies distributed, microservice-style architecture by implementing proven patterns to bring resilience, reliability, and coordination to your microservices.
+
+### Spring Cloud Data Flow
+
+#### Connect Anything
+
+Connect the Enterprise to the Internet of Anything-mobile devices, sensors, wearables, automobiles, and more. Spring Cloud Data Flow provides a unified service for creating composable data microservices that address streaming and ETL-based data processing patterns.
+
+![][14]
+
+## Spring Framework 5
+
+![][15]
+
+#### The Right Technology Stack for the Job at Hand
+
+Developers are constantly challenged with choosing the most effective runtime, programming model and architecture for their application's requirements and team's skill-set. For example, some [use cases][16] are best handled by a technology stack based on synchronous blocking I/O architecture while others would be better served by an asynchronous, and non-blocking stack built on the reactive design principles described in the [Reactive Streams Specification][17].
+
+Reactive Spring represents a platform wide initiative to deliver reactive support at every level of the development stack—web, security, data, messaging, etc. Spring Framework 5 delivers on this vision by providing a new reactive web stack called, Spring WebFlux, which is offered side-by-side with the traditional Spring MVC web stack. The choice is yours!
+
+[__ WebFlux Reference Documentation][18]
+
+
+
+
+
+* * *
+
+![][19]
+
+## Spring Boot
+
+#### Build Anything with Spring Boot
+
+Spring Boot is the starting point for building all Spring-based applications. Spring Boot is designed to get you up and running as quickly as possible, with minimal upfront configuration of Spring.
+
+* Get started in seconds using Spring Initializr
+* Build anything - REST API, WebSocket, Web, Streaming, Tasks, and more |
+* Simplified Security |
+* Rich support for SQL and NoSQL |
+* Embedded runtime support - Tomcat, Jetty, and Undertow
+* Developer productivity tools such as live reload and auto restart |
+* Curated dependencies that just work |
+* Production-ready features such as tracing, metrics and health status |
+* Works in your favorite IDE - Spring Tool Suite, IntelliJ&nbsp;IDEA and NetBeans |
+
+
+
+* * *
+
+
+
+[__ Spring Boot Reference Manual][20]
+
+[__ Getting Started Guide][21]
+
+![][22]
+
+
+
+
+* * *
+
+![][23]
+
+## Spring Cloud
+
+#### Coordinate Anything: Distributed Systems Simplified
+
+Building distributed systems doesn't need to be complex and error-prone. Spring Cloud offers a simple and accessible programming model to the most common distributed system patterns, helping developers build resilient, reliable, and coordinated applications. Spring Cloud is built on top of Spring Boot, making it easy for developers to get started and become productive quickly.
+
+
+
+
+![][24]
+
+
+
+
+
+**Service Discovery**
+A dynamic directory that enables client side load balancing and smart routing
+
+**Circuit Breaker**
+Microservice fault tolerance with a monitoring dashboard
+
+**Configuration Server**
+Dynamic, centralized configuration management for your decentralized applications
+
+**API Gateway**
+Single entry point for API consumers (browsers, devices, other APIs)
+
+**Distributed Tracing**
+Automated application instrumentation and operational visibility for distributed systems
+
+**OAuth2**
+Support for single sign on, token relay and token exchange
+
+**Consumer-Driven Contracts**
+Service evolution patterns to support both HTTP based and message based APIs
+
+[View All][25]
+
+* * *
+
+[__ Spring Cloud Reference Manual][26]
+
+Getting Started Guides
+[__ Config][27]
+[__ Registry][28]
+[__ Breakers][29]
+[__ Load Balancing][30]
+[__ Routing][31]
+
+
+
+
+* * *
+
+![][32]
+
+## Spring Cloud Data Flow
+
+#### Connect Anything
+
+Spring Cloud Data Flow makes it easy to build and orchestrate cloud-native data pipelines for use cases such as data ingest, real-time analytics, and data import/export. Spring Cloud Data Flow makes it simple to connect systems by providing out of the box connectors for the most common integration scenarios.
+
+* Supports processing data in real-time streams and batch
+* Ingest, transform, analyze &amp; store data
+* Connectors for FTP, RDBMS, Cassandra, RabbitMQ, GemFire, Redis, and much more
+*  Supports modern messaging middleware - Kafka and RabbitMQ
+* Spring Flo visual designer for pipelines
+* Operational dashboard - metrics, health checks, and remote management
+* Supported platforms: Cloud Foundry, Kubernetes, Apache YARN, Apache Mesos
+
+* * *
+
+[__ Spring Cloud Data Flow Reference Manual][33]
+
+© 2017 [Pivotal Software][38], Inc. All Rights Reserved. [Terms of Use][39], [Privacy][40] and [Trademark Guidelines][41]
+
+[1]: https://spring.io/docs
+[2]: https://spring.io/guides
+[3]: https://spring.io/projects
+[4]: https://spring.io/blog
+[5]: https://spring.io/questions
+[6]: https://spring.io/
+[7]: https://content.pivotal.io/spring/oct-4-getting-reactive-with-spring-framework-5-0-s-ga-release-webinar
+[8]: https://spring.io/img/homepage/springoneplatform-by-pivotal-horizontal.svg
+[9]: https://springoneplatform.io/?utm_source=springio&amp;utm_medium=homepage-banner&amp;utm_campaign=s1p-registration-promo
+[10]: https://content.pivotal.io/blog/building-spring-microservices-with-cloud-foundrys-new-container-networking-stack
+[11]: https://run.pivotal.io/spring
+[12]: https://spring.io/blog/2017/04/12/spring-cloud-dalston-released
+[13]: https://spring.io/img/homepage/icon-your-app.svg
+[14]: https://spring.io/img/homepage/icon-spring-framework.svg
+[15]: https://spring.io/img/homepage/diagram-boot-reactor.svg
+[16]: https://spring.io/blog/2016/06/07/notes-on-reactive-programming-part-i-the-reactive-landscape#reactive-use-cases
+[17]: http://www.reactive-streams.org/
+[18]: https://docs.spring.io/spring/docs/current/spring-framework-reference/web-reactive.html#spring-webflux
+[19]: https://spring.io/img/homepage/icon-spring-boot.svg
+[20]: https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/
+[21]: https://spring.io/guides/gs/spring-boot/
+[22]: https://spring.io/img/homepage/ytvid-overlay-tour-300.png
+[23]: https://spring.io/img/homepage/icon-spring-cloud.svg
+[24]: https://spring.io/img/homepage/diagram-distributed-systems.svg
+[25]: http://cloud.spring.io/
+[26]: http://cloud.spring.io/spring-cloud-static/current/
+[27]: https://spring.io/guides/gs/centralized-configuration/
+[28]: https://spring.io/guides/gs/service-registration-and-discovery/
+[29]: https://spring.io/guides/gs/circuit-breaker/
+[30]: https://spring.io/guides/gs/client-side-load-balancing/
+[31]: https://spring.io/guides/gs/routing-and-filtering/
+[32]: https://spring.io/img/homepage/icon-spring-cloud-data-flow.svg
+[33]: https://docs.spring.io/spring-cloud-dataflow/docs/current/reference/htmlsingle/#getting-started
+[34]: https://spring.io/team
+[35]: https://spring.io/services
+[36]: https://spring.io/tools
+[37]: https://store.spring.io
+[38]: https://www.pivotal.io/
+[39]: https://www.pivotal.io/terms-of-use
+[40]: https://www.pivotal.io/privacy-policy
+[41]: https://spring.io/trademarks
